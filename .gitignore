@@ -1,5 +1,5 @@
 # 忽略 index.css
 index.css
 
-# 忽略 text 目录下的所有文件
-text/
+# 忽略 text 目录下的.txt文件
+*.txt
