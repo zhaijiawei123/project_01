@@ -2,4 +2,4 @@
 index.css
 
 # 忽略 doc 目录下的文件
-doc/
+doc/*.txt
